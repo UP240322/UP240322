@@ -46,7 +46,5 @@ radius = (input('Escribe el valor del radio para calcular el area y circunferenc
 area_of_circle = 3.14 * (radius**2) 
 circum_of_circle = 3.14 * (2*radius)
 
-
-#cambios 
-
-#cambios otra vez
+print('El área del circulo es:',area_of_circle)
+print('La circunferencia del círculo es:',circum_of_circle)
