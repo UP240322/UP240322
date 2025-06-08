@@ -69,3 +69,5 @@ print('No hay "on" en python.',not 'on' in 'python')
 print('No hay "on" en jargon.',not 'on' in 'jargon')
 
 #16. Length of Python to string
+
+#intento cambio ora si
