@@ -69,5 +69,25 @@ print('No hay "on" en python.',not 'on' in 'python')
 print('No hay "on" en jargon.',not 'on' in 'jargon')
 
 #16. Length of Python to string
+length = len(py)         
+float_v = float(length) 
+r = str(float_v)   
 
-#intento cambio ora si
+print('En la palabra',py,'hay',r,'letras')
+
+#17. Even numbers 
+num = 11
+
+if num % 2 == 0:
+    print(num,'es par')
+else:
+    print(num,'es impar')
+    
+#18. Floor division
+
+f_div = 7 // 3
+
+str_number = '2.7'    
+convert_number = int(str_number)
+
+print(f_div,'es igual a',convert_number, f_div == convert_number) 
