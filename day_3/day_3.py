@@ -96,3 +96,5 @@ print(f_div,'es igual a',convert_number, f_div == convert_number)
 
 
 #cambios repositorio para explicar
+
+#cambios otra vez xq no se veía el fokin cursor
