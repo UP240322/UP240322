@@ -41,12 +41,16 @@ exp = num_one ** num_two
 floor_division = num_one // num_two
 
 #circle area
-radius = (input('Escribe el valor del radio para calcular el area y circunferencia de un circulo:'))
-
-area_of_circle = 3.14 * (radius**2) 
-circum_of_circle = 3.14 * (2*radius)
+radius = int((input('Escribe el valor del radio para calcular el area y circunferencia de un circulo:')))
+area_of_circle = 3.14 * (radius ** 2) 
+circum_of_circle = 3.14 * (2 * radius)
 
 print('El área del circulo es:',area_of_circle)
 print('La circunferencia del círculo es:',circum_of_circle)
 
-#cambios de prueba de nombre repo otra vez
+#User info
+print("\nInformación del usuario:")
+print("Nombre:", first_name)
+print("Apellido:", last_name)
+print("País:", country)
+print("Edad:", age)

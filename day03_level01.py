@@ -134,7 +134,6 @@ hours = float(input("\nIngrese las horas trabajadas: "))
 rate = float(input("Ingrese la tarifa por hora: "))
 pay = hours * rate
 print(f"Su ganancia semanal es {pay}")
-
 #22. Years to sec
 print("Punto 22\n")
 years = int(input("\nIngrese cuántos años ha vivido: "))
