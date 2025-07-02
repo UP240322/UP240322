@@ -1,4 +1,4 @@
-age = 19
+kage = 19
 heigth = 1.87
 complex_number = complex
 
